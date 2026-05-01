@@ -14,16 +14,16 @@ Interfaces:
   * Recompensa - Tesoro
 
 ## Como ejecutar
-Clonar o descargar el repositorio
-Abrir la carpeta del proyecto en IntelliJ IDEA
-Esperar a que Gradle sincronice las dependencias
-Abrir Main.java y presionar Run
+* Clonar o descargar el repositorio
+* Abrir la carpeta del proyecto en IntelliJ IDEA
+* Esperar a que Gradle sincronice las dependencias
+* Abrir Main.java y presionar Run
 
 ## Controles
-Flechas direccionales para mover al personaje
-Dos flechas simultaneas para movimiento diagonal
-ESPACIO para destruir un obstaculo adyacente
-I para listar el inventario en consola
+* Flechas direccionales para mover al personaje
+* Dos flechas simultaneas para movimiento diagonal
+* ESPACIO para destruir un obstaculo adyacente
+* I para listar el inventario en consola
 
 ## Clases del proyecto
 El proyecto esta organizado en interfaces, clases base y subclases.
