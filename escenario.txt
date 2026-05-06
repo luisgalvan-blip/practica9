@@ -1,0 +1,11 @@
+Obstaculo Roca 5 3
+Obstaculo Tonel 9 6
+Obstaculo Barril 7 10
+Obstaculo Trampa 3 8
+Utileria Llave 12 -1
+Utileria Escudo -3 12
+Utileria Pocion 19 3
+Enemigo Orco 40 6 2 15
+Enemigo Esqueleto 25 10 8 10
+CheckPoint CP-1 6 1
+CheckPoint CP-2 14 12
